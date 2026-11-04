@@ -18,7 +18,7 @@ A lightweight, responsive personal portfolio built with plain HTML, CSS, JavaScr
 
 ## Preview locally
 
-Keep the `assets` folder next to `index.html`, then open `index.html` in a modern browser. The background track is `assets/midnight-signal.mp3`.
+Keep the `assets` folder next to `index.html`, then open `index.html` in a modern browser. The background track is `assets/sailor.mp3`.
 
 The Discord avatar and banner currently reference the two Discord CDN URLs supplied for this update. Those links are signed and temporary; if Discord expires them, save the images locally in `assets/` and replace the two `src` values in `index.html` with `assets/discord-avatar.webp` and `assets/discord-banner.webp` respectively.
 
@@ -39,7 +39,7 @@ The Discord avatar and banner currently reference the two Discord CDN URLs suppl
 
 - Change the profile content and social links in `index.html`.
 - Replace the Discord avatar/banner image URLs with local files for permanent hosting.
-- Replace `assets/midnight-signal.mp3` with your own licensed audio if desired; keep the filename or update the `<audio>` source.
+- Replace `assets/sailor.mp3` with your own licensed audio if desired; keep the filename or update the `<audio>` source.
 - Add or edit projects by copying a `<article class="work-card">` block.
 
 
